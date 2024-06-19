@@ -2,9 +2,7 @@
 <h3 align="center">Android OS Developer | Kotlin Enthusiast | Cybersecurity Student</h3>
 <h3 align="center">Passionate about developing and optimizing Android OS features and applications. Skilled in Kotlin, Java, and cutting-edge Android frameworks. Committed to mentoring, problem-solving, and contributing to the crypto world. Currently pursuing an MS in Cybersecurity at New Bulgarian University.</h3>
 
-[![mitko-donchev's Stack Overflow | Stats](https://stats.quine.sh/mitko-donchev/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mitko-donchev)
-
-[![mitko-donchev's GitHub | Stats](https://stats.quira.sh/mitko-donchev/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=mitko-donchev)
+[![mitko-donchev's Stack Overflow | Stats](https://stats.quine.sh/mitko-donchev/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mitko-donchev) [![mitko-donchev's GitHub | Stats](https://stats.quira.sh/mitko-donchev/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=mitko-donchev)
 
 [![mitko-donchev's GitHub | Languages Over Time](https://stats.quira.sh/mitko-donchev/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=mitko-donchev)
 
